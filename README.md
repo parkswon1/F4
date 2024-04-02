@@ -1,5 +1,12 @@
-# 🖥F4
-##멋사 4조 회고팀 리파지토리
+# 멋사 4조 회고팀 리파지토리
+
+## 🖥F4 Members
+
+| [<img src="https://github.com/juicyye/giit/assets/154110659/4b3c826b-44b0-48c1-9fde-ba9200302a8f" width="100">](https://github.com) |  [<img src="https://github.com/juicyye/giit/assets/154110659/4b3c826b-44b0-48c1-9fde-ba9200302a8f" width="100">](https://github.com)| [<img src="https://github.com/juicyye/giit/assets/154110659/4b3c826b-44b0-48c1-9fde-ba9200302a8f" width="100">](https://github.com) | [<img src="https://github.com/juicyye/giit/assets/154110659/4b3c826b-44b0-48c1-9fde-ba9200302a8f" width="100">](https://github.com) | [<img src="https://github.com/juicyye/giit/assets/154110659/4b3c826b-44b0-48c1-9fde-ba9200302a8f" width="100">](https://github.com) | [<img src="https://github.com/juicyye/giit/assets/154110659/4b3c826b-44b0-48c1-9fde-ba9200302a8f" width="100">](https://github.com) | 
+| :-----------------------------------: | :---------------------------------------: |:---------------------------------------: | :-----------------------------------: | :------------------------------------: | :-----------------------------------: |
+|[박석원](https://github.com)|[배창윤](https://github.com)|[박경서](https://github.com)|[민차현](https://github.com)|[정주연](https://github.com)|[배민서](https://github.com)|
+
+<br>
 
 # ⚠️리파지토리 규칙
 - 저장소를 fork한다.
