@@ -4,7 +4,7 @@
 # ⚠️리파지토리 규칙
 - 저장소를 fork한다.
 - 생성된 저장소에 'Github ID'로 폴더를 생성한다.
-- 작성한 파일들을 Pull Request한다.
+- 작성한 파일들을 Main으로 Pull Request한다.
 - code review하러 자주 들어와보자
 
 # 📁 Repository 폴더 구조
