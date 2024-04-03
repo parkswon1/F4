@@ -2,9 +2,9 @@
 
 ## 🖥F4 Members
 
-| [<img src="https://github.com/parkswon1/F4/assets/74632742/a42f0de8-339e-4886-8586-e5bdd9479bac" width="100">](https://github.com) |  [<img src="https://github.com/juicyye/giit/assets/154110659/4b3c826b-44b0-48c1-9fde-ba9200302a8f" width="100">](https://github.com)| [<img src="https://github.com/juicyye/giit/assets/154110659/4b3c826b-44b0-48c1-9fde-ba9200302a8f" width="100">](https://github.com) | [<img src="https://github.com/juicyye/giit/assets/154110659/4b3c826b-44b0-48c1-9fde-ba9200302a8f" width="100">](https://github.com) | [<img src="https://github.com/parkswon1/F4/assets/74632742/ea4bdb09-7d92-4e55-b6d2-0f331d150ab4)" width="100">](https://github.com) | [<img src="https://github.com/juicyye/giit/assets/154110659/4b3c826b-44b0-48c1-9fde-ba9200302a8f" width="100">](https://github.com) | 
+| [<img src="https://github.com/parkswon1/F4/assets/74632742/a42f0de8-339e-4886-8586-e5bdd9479bac" width="100">](https://github.com) |  [<img src="https://github.com/juicyye/giit/assets/154110659/4b3c826b-44b0-48c1-9fde-ba9200302a8f" width="100">](https://github.com)| [<img src="https://github.com/juicyye/giit/assets/154110659/4b3c826b-44b0-48c1-9fde-ba9200302a8f" width="100">](https://github.com) | [<img src="https://github.com/juicyye/giit/assets/154110659/4b3c826b-44b0-48c1-9fde-ba9200302a8f" width="100">](https://github.com) | [<img src="https://github.com/parkswon1/F4/assets/74632742/ea4bdb09-7d92-4e55-b6d2-0f331d150ab4)" width="100">](https://github.com) | [<img src="https://github.com/parkswon1/F4/assets/130658628/89a23dd5-8dde-4fe2-9b3f-6f597df27c0f" width="100">](https://github.com/minseoBae) | 
 | :-----------------------------------: | :---------------------------------------: |:---------------------------------------: | :-----------------------------------: | :------------------------------------: | :-----------------------------------: |
-|[박석원](https://github.com)|[배창윤](https://github.com)|[박경서](https://github.com)|[민차현](https://github.com)|[정주연](https://github.com)|[배민서](https://github.com)|
+|[박석원](https://github.com)|[배창윤](https://github.com)|[박경서](https://github.com)|[민차현](https://github.com)|[정주연](https://github.com)|[배민서](https://github.com/minseoBae)|
 
 <br>
 
