@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <div class="container">
+        <input type="text" id="nameInput" placeholder="이름을 입력하세요" />
+        <button id="understandBtn">이해 했으면 1번</button>
+        <button id="difficultBtn">이해 못했으면 2번</button>
+    </div>
+
+    <div class="container">
+        <div class="list" id="understandList">
+            <div>이해한 사람: <span id="understandCount">0</span>명</div>
+        </div>
+        <div class="list" id="difficultList">
+            <div>이해하지 못한 사람: <span id="difficultCount">0</span>명</div>
+        </div>
+    </div>
+
+    <script>
+        var understand = [];
+        var difficult = [];
+
+        document.getElementById('understandBtn').addEventListener('click', function(event) {
+            event.preventDefault();
+            addToLog('understand');
+        });
+
+        document.getElementById('difficultBtn').addEventListener('click', function(event) {
+            event.preventDefault();
+            addToLog('difficult');
+        });
+
+        function addToLog(type) {   
+            var name = document.getElementById('nameInput').value;
+            var listElement = document.getElementById(type + 'List');
+
+            if (!understand.includes(name) && !difficult.includes(name) && name !== '') {
+                var listItem = document.createElement('li');
+                listItem.textContent = name;
+                listItem.addEventListener('click', function() {
+                    alert(name + "를 도와주세요!");
+                });
+        
+                var deleteButton = document.createElement('button');
+                deleteButton.textContent = 'Delete';
+                deleteButton.classList.add('deleteBtn');
+                deleteButton.onclick = function() {
+                    listItem.remove();
+                    updateCount();
+                };
+        
+                listItem.appendChild(deleteButton);
+                listElement.appendChild(listItem);
+
+                if (type === 'understand') {
+                    understand.push(name);
+                } else {
+                    difficult.push(name);
+                }
+
+                updateCount();
+            } else if (name === '') {
+                alert('이름을 입력하세요.');
+            } else { 
+                alert('중복된 이름입니다.');
+            }
+        }
+
+        function updateCount() {
+            var understandCount = document.querySelectorAll('#understandList li').length;
+            var difficultCount = document.querySelectorAll('#difficultList li').length;
+
+            document.getElementById('understandCount').textContent = understandCount;
+            document.getElementById('difficultCount').textContent = difficultCount;
+        }
+    </script>
+</body>
+</html>
