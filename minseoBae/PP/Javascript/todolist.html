@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <link rel="stylesheet" href="todolist.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="todo-list-template">
+        <div>
+            <h1 class="title">My TODO</h1>
+        </div>
+        <div>
+        </div>
+        <div class="form">
+            <input type="text" id="todo-value" placeholder="할 일: ..." onkeypress="enterkey()"/>
+            <button id="todoBtn" class="add-button">추가</button>
+        </div>
+        <div>
+            <ul id="todo-item-list"></ul>
+        </div>
+    </div>
+    <script src="todolist.js"></script>
+</body>
+</html>
